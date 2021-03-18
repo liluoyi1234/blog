@@ -1,5 +1,5 @@
 ---
-title: 统计数据的使用
+title: 地方政府债务的现状
 description: 金融论文的相当重要的一部分
 date: 2021-03-17T19:06:40+08:00
 slug: The-meaning-of-statistic
@@ -9,13 +9,33 @@ categories:
     - Papers
 ---
 
-# 相关数据图表
+# 数据图表
 
 统计的口径主要是地方政府债券，但似乎不能以偏概全吧！
 
-## 余额大
+## 债务余额大
 
 考虑对比的对象，横向或者纵向？
+
+### 2015-2019地方政府债务余额？？？的水平
+
+存在一个问题：一般债券和专项债券，一般债务和专项债务？统计口径？
+
+<div align="center">
+<img src=https://raw.githubusercontent.com/liluoyi1234/pic/main/img/20210228224912.jpg width=50% />
+</div>
+
+### 2020年前三季季度的债务余额（可能需要更新）
+
+<div align="center">
+<img src=https://raw.githubusercontent.com/liluoyi1234/pic/main/img/20210228225113.png width=50% />
+</div>
+
+### 数据分析
+
+对比分析和总结陈述
+
+债务余额大，增速快。
 
 ## 新增
 
