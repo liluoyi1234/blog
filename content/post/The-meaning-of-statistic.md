@@ -32,11 +32,23 @@ categories:
 
 对比分析和总结陈述
 
-债务余额大，增速快。
+债务余额大，增速快。债务增加相同数额，所需的时间不断缩短。
 
 ## 新增
 
 描述一种增长趋势，快步催人老。
+
+### 2015-2019的新增
+
+![](https://raw.githubusercontent.com/liluoyi1234/pic/main/img/20210228225115.png)
+
+### 2020的新增
+
+![](https://raw.githubusercontent.com/liluoyi1234/pic/main/img/20210228225114.png)
+
+### 数据分析
+
+
 
 ## 利息
 
