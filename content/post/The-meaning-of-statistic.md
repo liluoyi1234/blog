@@ -21,15 +21,12 @@ categories:
 
 存在一个问题：一般债券和专项债券，一般债务和专项债务？统计口径？
 
-<div align="center">
-<img src=https://raw.githubusercontent.com/liluoyi1234/pic/main/img/20210228224912.jpg width=50% />
-</div>
+![](https://raw.githubusercontent.com/liluoyi1234/pic/main/img/20210228224912.jpg)
 
 ### 2020年前三季季度的债务余额（可能需要更新）
 
-<div align="center">
-<img src=https://raw.githubusercontent.com/liluoyi1234/pic/main/img/20210228225113.png width=50% />
-</div>
+![](https://raw.githubusercontent.com/liluoyi1234/pic/main/img/20210228225113.png)
+
 
 ### 数据分析
 
