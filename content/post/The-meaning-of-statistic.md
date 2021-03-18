@@ -48,11 +48,15 @@ categories:
 
 ### 数据分析
 
-
+第一张表的数据有问题，反映某些数据的缺失。
 
 ## 利息
 
 要得到一个大概的利息率水平，然后考虑是否偏高？
+
+![](https://raw.githubusercontent.com/liluoyi1234/pic/main/img/20210228225112.png)
+
+这个数据是我要的吗？
 
 是否就反映出了政府债务的风险呢？
 
@@ -60,15 +64,33 @@ categories:
 
 财政收入反映一个问题
 
+### 一般公共预算收支
+
+![](https://raw.githubusercontent.com/liluoyi1234/pic/main/img/20210228230523.png)
+
+### 政府性基金预算收支
+
+![](https://raw.githubusercontent.com/liluoyi1234/pic/main/img/20210228230524.png)
+
+这数据能给我什么？
+
 ## 杠杆
 
+![](https://raw.githubusercontent.com/liluoyi1234/pic/main/img/20210228230616.png)
 这个数据感觉不知道怎么用
 
 ## 长期
 
 反映还款压力，下面两个也可以反映这个情况。
 
-## 期限
-## 结构
+### 期限
+
+![](https://raw.githubusercontent.com/liluoyi1234/pic/main/img/20210301163656.png)
+
+数据也和下面有问题，占比应该次数
+
+### 结构
+
+![](https://raw.githubusercontent.com/liluoyi1234/pic/main/img/20210301163945.png)
 
 > 我认为问题的描述，应该结合数据！这样写论文才会进步！
