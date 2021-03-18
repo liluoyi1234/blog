@@ -1,10 +1,10 @@
 ---
 title: 统计数据的使用
-subtitle: 反映地方政债务的现状 
 description: 金融论文的相当重要的一部分
 date: 2021-03-17T19:06:40+08:00
 slug: The-meaning-of-statistic
 image: https://cdn.jsdelivr.net/gh/liluoyi1234/pic/img/20210318133645.png
+tags: [金融]
 categories:
     - Papers
 ---

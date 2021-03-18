@@ -1,10 +1,9 @@
 ---
 title: 法律备忘录📕的写法
 description: 
-date: 2021-03-17T14:21:47+08:00
+date: 2020-03-26 19:26:21+08:00
 slug: The-way-of-writing-memo
 image: 
-date: 2020-03-26 19:26:21
 tags: [律师技能]
 categories:
     - Improvment
