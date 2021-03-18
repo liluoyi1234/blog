@@ -27,7 +27,7 @@ params:
 
     footer:
         since: 2021
-        customText: 迭代是进步的标志
+        customText: 放弃很容易，坚持却很酷
 
     dateFormat:
         published: Jan 02, 2006
