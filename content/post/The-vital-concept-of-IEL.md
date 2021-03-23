@@ -17,4 +17,4 @@ categories:
 # 第六编 国际税法
 # 第七编 争端解决
 
-{{< https://www.figma.com/file/aV4UDWki1wDtgSifjXnulQ/Chinese-Chess-%E4%B8%AD%E5%9B%BD%E8%B1%A1%E6%A3%8B-Community?node-id=144%3A1022 >}}
+{{< figma aV4UDWki1wDtgSifjXnulQ >}}
