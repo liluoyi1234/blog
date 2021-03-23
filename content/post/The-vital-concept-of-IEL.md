@@ -16,5 +16,3 @@ categories:
 # 第五编 国际金融法
 # 第六编 国际税法
 # 第七编 争端解决
-
-{{< figma aV4UDWki1wDtgSifjXnulQ >}}
