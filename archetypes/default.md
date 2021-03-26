@@ -4,7 +4,8 @@ description:
 date: {{ .Date }}
 slug: {{ .Name }}
 image: 
-tags: []
+tags: 
+    -
 categories:
     - 
 ---
