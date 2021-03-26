@@ -76,7 +76,7 @@ params:
     opengraph:
         twitter:
             # Your Twitter username
-            site: TomBener
+            site: liluoyi1234
 
             # Available values: summary, summary_large_image
             card: summary_large_image
