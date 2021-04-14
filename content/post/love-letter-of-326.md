@@ -1,5 +1,5 @@
 ---
-title: My lover 'R'
+title: My lover R
 description: Before 326 days ago, we met again.
 date: 2021-04-13T16:44:05+08:00
 slug: My lover 'R'
