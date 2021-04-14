@@ -3,15 +3,12 @@ title: My lover 'R'
 description: Before 326 days ago, we met again.
 date: 2021-04-13T16:44:05+08:00
 slug: My lover 'R'
-image: https://github.com/liluoyi1234/pic/blob/main/phounius-IiS5004k2iw-unsplash.jpg
+image: https://unsplash.com/photos/IiS5004k2iw
 tags: 
     - 💗
 categories:
     - Lover Letter
-
 ---
-
-[img[https://github.com/liluoyi1234/pic/blob/main/jonas-weckschmied--N_UwPdUs7E-unsplash.jpg]]
 
 # 遇见
 
