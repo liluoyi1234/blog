@@ -3,7 +3,7 @@ title: Jsbox and Javascript
 description: 
 date: 2021-04-24T10:52:16+08:00
 slug: using-jsbox-to-learn-javascript
-image: https://jsboxbbs.com/assets/logo-q4lh2uur.png
+image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hackreactor.com%2Fblog%2Fwhat-is-javascript-used-for&psig=AOvVaw2pzGdjxfRNEoefuy6anKPL&ust=1619331237753000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJj6pZ6dlvACFQAAAAAdAAAAABAD
 tags: 
     - 技术
 categories:
