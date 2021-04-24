@@ -19,4 +19,4 @@ Contact me:
 - 📧 [Email](mailto:liluoyi1234@gmail.com)
 - 💬 [Telegram](https://t.me/liluoyi)
 - 🐦 [Twitter](https://twitter.com/liluoyi1234)
-- ✍️ [少数派](https://sspai.com/u/k87phj24)
+- ✍️ [少数派](https://sspai.com/u/SeanLee)
