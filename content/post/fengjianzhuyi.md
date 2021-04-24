@@ -1,7 +1,7 @@
 ---
 title: '封建主义天然反对👎财富'
 date: 2020-02-24 00:00:00
-tags: [读书笔记]
+tags: [Reading notes]
 published: true
 hideInList: false
 feature: 
