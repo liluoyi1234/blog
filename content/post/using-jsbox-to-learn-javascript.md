@@ -18,7 +18,7 @@ Jsbox is a tool to write javascript codes to control iPhone. There are many usef
 
 JS is important as CSS and HTML which consist of the website. Yesterday, on the classroom with my classmate, Dingtai, Chao, I thought coding is also vital for lawyers. But, nowadays on the market such as WeChat Channels, many people tell the law students or lawyers to learn python in WeChat articles.  
 
-In my view, those articles are definitely useless.  I have learned python for two years in my college life. During the process, I find that coding is not just to write codes. If you want to make best of your python skills, you need to learn many other program backgrounds. For example, when you use python to handle the PDF of your cases' documents, you must debug your codes. This prosess is painful and at the same time, you can find other more effient tools[^ 1] to finish your works.
+In my view, those articles are definitely useless.  I have learned python for two years in my college life. During the process, I find that coding is not just to write codes. If you want to make best of your python skills, you need to learn many other program backgrounds. For example, when you use python to handle the PDF of your cases' documents, you must debug your codes. This prosess is painful and at the same time, you can find other more effient tools[^1] to finish your works.
 
 Because of the attributes of Javascript, I decide to learn it before Python.  
 
