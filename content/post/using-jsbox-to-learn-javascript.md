@@ -3,7 +3,7 @@ title: Jsbox and Javascript
 description: 
 date: 2021-04-24T10:52:16+08:00
 slug: using-jsbox-to-learn-javascript
-image: https://images.ctfassets.net/yr4qj72ki4ky/legacyBlogPost77Thumbnail/cd4783ad7b35efc4367166a570a9952e/bigstock-Real-Java-Script-Code-Developi-217215433.jpg?fm=webp&q=72
+image: https://images.ctfassets.net/yr4qj72ki4ky/legacyBlogPost77Thumbnail/cd4783ad7b35efc4367166a570a9952e/bigstock-Real-Java-Script-Code-Developi-217215433.jpg
 tags: 
     - 技术
 categories:

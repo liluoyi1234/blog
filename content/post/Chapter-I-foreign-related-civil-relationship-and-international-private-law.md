@@ -3,7 +3,7 @@ title: 涉外民事关系和国际私法
 description: 第一章：总论，《国际私法》第五版-李双元
 date: 2021-03-20T21:50:03+08:00
 slug: Chapter-I-foreign-related-civil-relationship-and-international-private-law
-image: 
+image: https://images.pexels.com/photos/7372401/pexels-photo-7372401.jpeg
 tags: [复试]
 categories:
     - Reading
@@ -64,7 +64,7 @@ categories:
     * 最好理解归纳一下 法理学意义上的法律冲突？ 国际私法意义上的法律冲突？
 
 ##### （二）法律冲突的产生原因
-  
+
 > 国际私法法律冲突的实质就是法律域内和域外效力的冲突
 
 一是在现实生活中大量出现含有涉外因素的民事关系
