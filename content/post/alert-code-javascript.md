@@ -1,5 +1,5 @@
 ---
-title: Alert()命令
+title: Alert命令
 description: 学习Javascript的第一个命令
 date: 2021-04-27T15:47:38+08:00
 slug: alert-code-javascript
