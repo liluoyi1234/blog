@@ -6,7 +6,7 @@ slug: The-way-of-writing-memo
 image: 
 tags: [律师技能]
 categories:
-    - Improvment
+    -
 ---
 
 ## 一、法律备忘录的种类
